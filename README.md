@@ -8,14 +8,25 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the standard libraries.             
-2.Upload the dataset and check for any null values using .isnull() function.            
-3.Import LabelEncoder and encode the dataset.           
-4.Import DecisionTreeRegressor from sklearn and apply the model on the dataset.                
-5.Predict the values of arrays.             
-6.Import metrics from sklearn and calculate the MSE and R2 of the model on the dataset.           
-7.Predict the values of array.           
-8.Apply to new unknown values.               
+1. Import Necessary Libraries
+
+2. Load the Dataset
+
+3. Explore and Analyze the Data
+
+4. Preprocess the Data
+
+5. Define Features and Target Variables
+
+6. Split the Dataset
+
+7. Train the Decision Tree Model
+
+8. Make Predictions
+
+9. Evaluate the Model
+
+10. Make New Predictions       
 
 ## Program:
 ```
